@@ -1,0 +1,4 @@
+I used math.h
+please use -lm
+
+gcc 1801042655_part2.c -lm
